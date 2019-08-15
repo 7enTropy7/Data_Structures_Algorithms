@@ -1,2 +1,3 @@
 # Data_Structures_Algorithms
-My collection of data structures and algorithm coded in C++
+
+This repo is a collection of my C++ codes that were written during Data Structures and Algorithms classes. I will update this space as I come across new stuff.
